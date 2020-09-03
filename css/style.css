@@ -1,0 +1,187 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+a{
+    text-decoration: none;
+}
+ul,ol{
+    list-style: none;
+}
+h1,h2,,h3,h4,h5,h6 a,p{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Berkshire Swash', cursive;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Piedra', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+/*menu part css start*/
+.common_head h3{
+    padding-top: 50px;
+    text-align: center;
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 40px;
+    color: navy;
+}
+.menu_icon img{
+    border-radius: 50%;
+    height: 220px;
+    margin-top: 80px;
+    margin-left: 140px;
+}
+.menu_icon p{
+    padding-top: 20px;
+    padding-left: 25px;
+    border: 2px solid navy;
+    padding: 5px 20px;
+    margin-right: 5px;
+    margin-left: 150px;
+    margin-top: 20px;
+    background-color: navy;
+    color: #fff;
+    border-radius: 5px;
+}
+.common_head h4{
+    padding: 30px;
+    padding-left: 270px;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-size: 30px;
+    color: darkmagenta;
+}
+.menu_con p{
+    padding-top: 5px;
+    padding-left: 300px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+    color: darkgreen;
+    
+}
+.content_con p{
+    padding-top: 15px;
+    border: 2px solid navy;
+    margin-top: 40px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+     font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+    color: darkred;
+     border-radius: 5px;
+}
+
+.common_head h4{
+    font-family: 'Piedra', cursive;
+    padding-bottom: 20px;
+    
+}
+.skill_cont p{
+    padding-top: 2px;
+    padding-left: 270px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+    color: orange;
+    
+}
+.skill_con p{
+    padding-top: 2px;
+    padding-left: 270px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+    color: orange;
+    padding-top: 5px;
+}
+.content_icon img{
+    width: 400px;
+    margin-top: 40px;
+    border: 2px solid navy;
+    border-radius: 5px;
+}
+.contact_con{
+    padding-top: 40px;
+    padding-left: 180px;
+}
+.contact_con h5{
+    font-family: 'Piedra', cursive;
+    font-size: 20px;
+    padding-top: 5px;
+    color: crimson;
+     
+}
+.contact_con p{
+    font-family: 'Piedra', cursive;
+    font-size: 17px;
+   
+    color: purple;
+}
+.contact_form{
+     padding-top: 40px;
+}
+.contact_form input{
+    padding: 8px 80px;
+    font-family: 'Piedra', cursive;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-top: 5px;
+    padding-left: 40px;
+    border: 2px solid navy;
+     background-color: aqua;
+}
+.contact_form textarea{
+     padding: 8px 80px;
+    font-family: 'Piedra', cursive;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-top: 5px;
+    padding-left: 40px;
+    border: 2px solid navy;
+    background-color: aqua;
+}
+.contact_form button{
+    padding: 8px 60px;
+    font-family: 'Piedra', cursive;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-top: 5px;
+    padding-left: 50px;
+    border: 2px solid navy;
+    transition: all linear .3s;
+}
+.contact_form button:hover {
+    background-color: darkmagenta;
+    border: 2px solid darkmagenta;
+    color: #fff;
+    transition: all linear .3s;
+}
+.footer{
+    background-color: gray;
+    margin-top: 25px;
+    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.footer_con p{
+    padding-top: 15px;
+    text-align: center;
+    color: navy;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+.menu{
+    background-color: darkcyan;
+}
+.content_con h5{
+    text-align: center;
+     background-color: navy;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+/*menu part css end*/
